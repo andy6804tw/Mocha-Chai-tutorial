@@ -22,3 +22,8 @@ After completing the [installation](#installation) step, you're ready to start t
 | ------| ------ |
 | start | Serves your app at localhost:3000 |
 | test | Runs unit tests with mocha  |
+
+
+## Screenshot
+
+<img src="/screenshot/img-1.png">
