@@ -10,7 +10,7 @@ $ cd Mocha-Chai-tutorial
 ### Installation
 When that's done, install the project dependencies.You can use npm or yarn(recommended) for dependency management。
 
-```bash
+```bash
 $ npm install
 ```
 
@@ -26,4 +26,4 @@ After completing the [installation](#installation) step, you're ready to start t
 
 ## Screenshot
 
-<img src="/screenshot/img-1.png">
+<img src="/screenshot/img-1.png" width="650">
