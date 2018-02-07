@@ -1,0 +1,16 @@
+{
+  "name": "mocha_chai_tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha || true",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.16.2",
+    "mocha": "^4.1.0",
+    "supertest": "^3.0.0"
+  }
+}
