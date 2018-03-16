@@ -1,3 +1,6 @@
+[![GitHub license][travis-image]][travis-url]
+[![GitHub license][license-image]][license-url]
+
 ## Getting Started
 ### Clone Project
  you can create a new project based on Mocha-Chai-tutorial by doing the following:
@@ -27,3 +30,9 @@ After completing the [installation](#installation) step, you're ready to start t
 ## Screenshot
 
 <img src="/screenshot/img-1.png" width="650">
+
+
+[travis-image]: https://travis-ci.org/andy6804tw/Mocha-Chai-tutorial.svg?branch=master
+[travis-url]: https://travis-ci.org/andy6804tw/Mocha-Chai-tutorial
+[license-image]: https://img.shields.io/npm/l/express.svg?registry_uri=https%3A%2F%2Fregistry.npmjs.com
+[license-url]: https://github.com/andy6804tw/Mocha-Chai-tutorial/blob/master/LICENSE
