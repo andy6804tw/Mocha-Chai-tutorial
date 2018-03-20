@@ -49,3 +49,7 @@ node_modules
 
 # .env
 .env
+
+# Coverage
+.nyc_output
+coverage
