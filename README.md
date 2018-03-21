@@ -1,6 +1,6 @@
 [![GitHub license][travis-image]][travis-url]
 [![GitHub license][license-image]][license-url]
-[![Coverage Status](coverage-image)](coverage-url)
+[![Coverage Status](https://coveralls.io/repos/github/andy6804tw/Mocha-Chai-tutorial/badge.svg?branch=master)](coverage-url)
 ## Getting Started
 ### Clone Project
  you can create a new project based on Mocha-Chai-tutorial by doing the following:
@@ -36,5 +36,4 @@ After completing the [installation](#installation) step, you're ready to start t
 [travis-url]: https://travis-ci.org/andy6804tw/Mocha-Chai-tutorial
 [license-image]: https://img.shields.io/npm/l/express.svg?registry_uri=https%3A%2F%2Fregistry.npmjs.com
 [license-url]: https://github.com/andy6804tw/Mocha-Chai-tutorial/blob/master/LICENSE
-[coverage-image]:https://coveralls.io/repos/github/andy6804tw/Mocha-Chai-tutorial/badge.svg?branch=master
 [coverage-url]:https://coveralls.io/github/andy6804tw/Mocha-Chai-tutorial?branch=master
