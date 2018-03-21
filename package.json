@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "test": "nyc mocha --timeout 1000 ",
-    "coverage": "nyc --reporter=lcov --reporter=text-lcov npm test",
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
     "showcoverage": "open coverage/lcov-report/index.html",
     "start": "nodemon app.js"
   },
