@@ -1,12 +1,11 @@
 {
   "name": "mocha_chai_tutorial",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "nyc mocha --timeout 1000 ",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
-    "showcoverage": "open coverage/lcov-report/index.html",
     "start": "nodemon app.js"
   },
   "dependencies": {
